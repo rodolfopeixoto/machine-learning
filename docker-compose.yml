@@ -1,0 +1,4 @@
+data:
+  build: .
+  volumes:
+    - .:/machine-learning1
