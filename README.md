@@ -17,4 +17,5 @@ Quando for encontrado x = dados que temos( informação ) e y = marcação
 
 ## FLUXO DO PROJETO
 
- 
+## CODE
+[github](https://github.com/alura-cursos/machine-learning-introducao-a-classificacao/blob/master/dados.py)
